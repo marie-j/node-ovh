@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 3.0.1 (2024-07-18)
+
+
+### Bug Fixes
+
+* test release ([c547f1d](https://github.com/ovh/node-ovh/commit/c547f1dff9110f8938415c851250fdf916ddfbf6))
+
 ## [3.0.0](https://github.com/ovh/node-ovh/compare/v2.0.3...v3.0.0) (2024-07-18)
 
 
